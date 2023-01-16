@@ -1,6 +1,6 @@
 ## Sql Connection String Generator
 
-1-Create simple Text file 
+1-Create a simple Text file 
 
 ![This is an image](https://github.com/SaeedMolaiy/Sql-Connection-String-Generator/blob/main/SqlConnectionStringGenerator/Images/1.PNG)
 
@@ -8,15 +8,15 @@
 
 ![This is an image](https://github.com/SaeedMolaiy/Sql-Connection-String-Generator/blob/main/SqlConnectionStringGenerator/Images/2.PNG)
 
-3-Open **.udl** File
->you should see window looks like below image
+3-Open the **.udl** File
+>you should see the window looks like the below image
 
 ![This is an image](https://github.com/SaeedMolaiy/Sql-Connection-String-Generator/blob/main/SqlConnectionStringGenerator/Images/3.PNG)
 
-4-After you selected server and database click on **OK** button
+4-After you choosed server and database click on the **OK** button
 
-5-Open **.udl** file with text editor
->you will see generated connection string like below image
+5-Open the **.udl** file with the text editor
+>you will see generated connection string like the below image
 
 ![This is an image](https://github.com/SaeedMolaiy/Sql-Connection-String-Generator/blob/main/SqlConnectionStringGenerator/Images/4.PNG)
 
